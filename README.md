@@ -207,3 +207,11 @@ Uma mão tem no máximo 3 rodadas.
 | CT29 | Correr da mão de onze | Adversário ganha 1 ponto |
 | CT30 | Duas duplas com 11 | Truco não é permitido |
 | CT31 | Chegar a 12 pontos | Dupla vence e a partida encerra |
+
+---
+
+## Colaboradores
+
+NOME: EDUARDA PEREIRA DE MORAES 
+RA: 24170522-2
+
